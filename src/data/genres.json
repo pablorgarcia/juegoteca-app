@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Aventura" },
+  { "id": 2, "name": "RPG" },
+  { "id": 3, "name": "Plataformas" },
+  { "id": 4, "name": "Acción" },
+  { "id": 5, "name": "Beat em Up", "secondName": "Lucha de barrio" },
+  { "id": 6, "name": "Run n Gun", "secondName": "Disparos" },
+  { "id": 7, "name": "Shoot em Up", "secondName": "Naves" },
+  { "id": 8, "name": "Shooter", "secondName": "Disparos en primera persona" }
+]

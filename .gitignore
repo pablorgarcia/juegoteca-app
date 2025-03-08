@@ -1,0 +1,20 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar el archivo package-lock.json
+package-lock.json
+
+# Opcional: Ignorar otros archivos específicos del entorno
+.DS_Store    # macOS
+Thumbs.db    # Windows
+.env         # Archivos de configuración sensibles
+.idea/
+
+# Ignorar claves SSH
+*.pem
+*.key
+.ssh/
+
+# Ignorar archivos temporales
+*.log
+tmp/

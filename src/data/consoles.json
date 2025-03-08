@@ -1,0 +1,29 @@
+[
+  { "id": 1, "name": "Super Nt" },
+  { "id": 2, "name": "Mega Sg" },
+  { "id": 3, "name": "Pocket" },
+  { "id": 4, "name": "3D" },
+  { "id": 5, "name": "Superstation One" },
+
+  { "id": 6, "name": "NES" },
+  { "id": 7, "name": "GameBoy" },
+  { "id": 8, "name": "SNES" },
+  { "id": 9, "name": "N64" },
+  { "id": 10, "name": "GameCube" },
+  { "id": 11, "name": "Wii" },
+  { "id": 12, "name": "Wii U" },
+  { "id": 13, "name": "Nintendo Switch" },
+
+  { "id": 14, "name": "MegaDrive" },
+  { "id": 15, "name": "Saturn" },
+  { "id": 16, "name": "Dreamcast" },
+
+  { "id": 17, "name": "PS1" },
+  { "id": 18, "name": "PS2" },
+  { "id": 19, "name": "PS3" },
+  { "id": 20, "name": "PS4" },
+  { "id": 21, "name": "PS5" },
+
+  { "id": 22, "name": "Xbox clásica" },
+  { "id": 23, "name": "Xbox360" }
+]
