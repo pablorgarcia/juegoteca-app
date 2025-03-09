@@ -6,5 +6,11 @@
   { "id": 5, "name": "Beat em Up", "secondName": "Lucha de barrio" },
   { "id": 6, "name": "Run n Gun", "secondName": "Disparos" },
   { "id": 7, "name": "Shoot em Up", "secondName": "Naves" },
-  { "id": 8, "name": "Shooter", "secondName": "Disparos en primera persona" }
+  { "id": 8, "name": "Shooter", "secondName": "Disparos en primera persona" },
+  { "id": 9, "name": "Lucha" },
+  { "id": 10, "name": "Puzzle" },
+  { "id": 11, "name": "Metroidvania" },
+  { "id": 12, "name": "Deporte" },
+  { "id": 13, "name": "Carreras" },
+  { "id": 14, "name": "Simulador" }
 ]
