@@ -7,13 +7,14 @@
     "react-dom": "19.0.0",
     "react-scripts": "^5.0.1"
   },
+  "homepage": "https://pablorgarcia.github.io/juegoteca-app",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --repo https://github.com/pablorgarcia/juegoteca-app.git"
+    "eject": "react-scripts eject"
   },
   "browserslist": {
     "production": [
