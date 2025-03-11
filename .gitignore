@@ -1,5 +1,6 @@
 # Ignorar la carpeta node_modules
 node_modules/
+public/favicon/Pixel SNES Controller Pack/
 
 # Ignorar el archivo package-lock.json
 package-lock.json
